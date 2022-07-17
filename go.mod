@@ -1,3 +1,3 @@
-module github.com/bernstein7/json_helpers
+module github.com/bernstein7/jsonhelpers
 
 go 1.18
